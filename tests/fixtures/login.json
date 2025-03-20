@@ -1,0 +1,14 @@
+{
+    "validData": {
+        "email": "renan.marquesx@gmail.com",
+        "password": "Test123!"
+    },
+    "invalidData": {
+        "email": "testuser@ninjaone.com",
+        "password": "1234"
+    },
+    "capitalizedData": {
+        "email": "RENAN.MARQUESX@GMAIL.COM",
+        "password": "TEST123!"
+    }
+}
